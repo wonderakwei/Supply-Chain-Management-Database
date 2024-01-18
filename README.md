@@ -20,19 +20,22 @@ The project required a robust database system to manage inventory, orders, manuf
 ## DATABASE DESIGN PROCESS 
 ### Phase I: Requirements Collection and Analysis
 - Interviewed and consulted with database users to understand data requirements.
-- Developed an E-R diagram with necessary entities and relationships.
+- Identified key entities and relationships, laying the foundation for the conceptual design.
 
-### Phase II: Logical Design (Data model mapping)
-- Converted E-R diagram to a logical database schema.
+### Phase II: Conceptual Design
+- Formulated a comprehensive E-R diagram representing the identified entities and relationships.
+
+### Phase III: Logical Design (Data model mapping)
+- Translated the conceptual design into a logical database schema.
 - Specified entities, relationships, attributes, primary keys, and foreign keys.
 
-### Phase III: Physical Design (Internal Schema)
-- Converted logical database schema to physical database.
-- Created tables, specified columns, data types, constraints, and keys.
+### Phase IV: Physical Design (Internal Schema)
+- Transformed the logical database schema into a physical database.
+- Created tables, specified columns, defined data types, and implemented constraints and keys.
 
-### Phase IV: Usage and Setup
-- Utilized Docker and Docker Compose for a standardized environment.
-- Provided a readme for project setup, including links to online documentation and ERD images.
+### Phase V: Usage and Setup
+- Employed Docker and Docker Compose for a standardized environment.
+- Offered detailed setup instructions in the readme, including links to online documentation and ERD images.
 
 For detailed information, refer to the [online documentation](#) on dbdocs.io.
 
