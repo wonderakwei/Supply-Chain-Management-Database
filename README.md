@@ -45,6 +45,8 @@ For detailed information, refer to the [online documentation](#) on dbdocs.io.
 - pgAdmin for PostgreSQL administration.
 - dbdiagrams.io
 - dbdocs.io
+- draw.io
+- mermaid.js.org
 
 ## Setup
 1. Clone the repository.
