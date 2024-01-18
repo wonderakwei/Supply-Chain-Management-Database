@@ -17,7 +17,7 @@ The project required a robust database system to manage inventory, orders, manuf
 5. Documentation available on dbdocs.io for reference and ease of understanding.
 6. Configurations for PostgreSQL administration tool, pgAdmin.
 
-## Flowchart Process
+## DATABASE DESIGN PROCESS FLOWCHART
 ### Phase I: Requirements Collection and Analysis
 - Interviewed and consulted with database users to understand data requirements.
 - Developed an E-R diagram with necessary entities and relationships.
