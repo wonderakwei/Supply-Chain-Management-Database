@@ -43,6 +43,8 @@ For detailed information, refer to the [online documentation](#) on dbdocs.io.
 - Docker and Docker Compose for containerization.
 - PostgreSQL as the database management system.
 - pgAdmin for PostgreSQL administration.
+- dbdiagrams.io
+- dbdocs.io
 
 ## Setup
 1. Clone the repository.
